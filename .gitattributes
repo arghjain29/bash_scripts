@@ -1,0 +1,9 @@
+# Bash cannot run scripts with Windows (CRLF) line endings.
+# Force LF for shell-related files on every platform.
+*.sh    text eol=lf
+*.bats  text eol=lf
+*.example text eol=lf
+
+# Sample data read by the scripts should also be LF.
+*.log   text eol=lf
+*.csv   text eol=lf
