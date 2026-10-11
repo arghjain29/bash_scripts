@@ -58,7 +58,7 @@ is available now.
 | # | Chapter | What you learn | Status |
 |---|---------|----------------|--------|
 | 01 | [Getting Started](01-getting-started/) | Running scripts, shebang, detecting the OS, line endings | Available |
-| 02 | Variables and Quoting | Variables, quoting rules, environment, command substitution, arithmetic | Coming soon |
+| 02 | [Variables and Quoting](02-variables-and-quoting/) | Variables, quoting rules, environment, command substitution, arithmetic | Available |
 | 03 | Input and Output | `echo`/`printf`, `read`, redirection, pipes, here-documents | Coming soon |
 | 04 | Conditionals | `if`, `[ ]` vs `[[ ]]`, file tests, `case`, exit codes | Coming soon |
 | 05 | Loops | `for`, `while`, `until`, reading files safely, common pitfalls | Coming soon |
