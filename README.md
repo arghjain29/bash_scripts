@@ -60,7 +60,7 @@ is available now.
 | 01 | [Getting Started](01-getting-started/) | Running scripts, shebang, detecting the OS, line endings | Available |
 | 02 | [Variables and Quoting](02-variables-and-quoting/) | Variables, quoting rules, environment, command substitution, arithmetic | Available |
 | 03 | [Input and Output](03-input-output/) | `echo`/`printf`, `read`, redirection, pipes, here-documents | Available |
-| 04 | Conditionals | `if`, `[ ]` vs `[[ ]]`, file tests, `case`, exit codes | Coming soon |
+| 04 | [Conditionals](04-conditionals/) | `if`, `[ ]` vs `[[ ]]`, file tests, `case`, exit codes | Available |
 | 05 | Loops | `for`, `while`, `until`, reading files safely, common pitfalls | Coming soon |
 | 06 | Functions | Arguments, return values, scope, sourcing libraries | Coming soon |
 | 07 | Strings and Arrays | Parameter expansion, indexed and associative arrays | Coming soon |
